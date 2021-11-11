@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dawio
+- 🐍 I'm a freelance python/.NET developer.
+- 🌱 I'm a student who mostly create various bots to automate activities as well as backend for servers, but with enough time and patience i can create everything.
+- 📫 Reach me via e-mail: dawio@int.pl
